@@ -1,4 +1,4 @@
-#Sports Reference Data Internship
+# Sports Reference Data Internship
 
 This repository contains a Google Colab notebook that I used to work on a challenge posed for the application for the summer 2022 Sports Reference 
 data internship.
